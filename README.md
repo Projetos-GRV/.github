@@ -27,6 +27,7 @@ Supervisor: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
 - Site: [https://grv.inf.pucrs.br/](https://grv.inf.pucrs.br/)
 
 ## Projects
+- [[2025] VRBike](#vrbike)
 - [[2025] Video Respiratory Monitor (Best paper of COMPSAC 2025)](#video-monitor)
 - [[2025] 3D Viewer](#3d-viewer)
 - [[2025] Virtual Environment Visualization](#virtual-environment-visualization)
@@ -48,6 +49,32 @@ Supervisor: Márcio Sarroglia Pinho – marcio.pinho@pucrs.br
 - [[2016] Dental Simulator for Endodontic Access Cavity Preparation](#dental-simulator-for-endodontic-access-cavity-preparation)
 - [[2011] Virtual Environments for Post-traumatic Stress Disorder Treatment](#virtual-environments-for-post-traumatic-stress-disorder-treatment)
 
+### VRBike
+
+# Virtual Reality Bicycle Simulator
+
+This project is a Virtual Reality application that simulates riding a bicycle using real-world sensors and a 3D environment built in Unity for the Meta Quest 3.
+
+![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/bike_1.jpg)
+![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/bike_2.jpg)
+![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/bike_3.jpg)
+![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/app_1.png)
+![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/app_2.png)
+
+Procedural City Generation: 
+
+- An infinite 3D city is generated at runtime, allowing players to ride endlessly through the environment.
+
+Gameplay Mechanics:
+
+- Collect coins scattered throughout the city.
+
+- Pick up speed multiplier items to temporarily boost base speed.
+
+The project combines hardware integration, real-time data streaming, and VR development to create a fun and immersive experience of riding a bicycle inside a virtual world.
+
+Demonstration:
+- Demo: [https://youtu.be/GAMwGyg6p1Y](https://youtu.be/GAMwGyg6p1Y)
 
 ### Editor AR
 This work describes a framework for modeling and executing training in augmented and virtual reality environments. The framework was designed based on characteristics observed in existing training applications for complex tasks, such as the use of tools, control panels and the need for step-by-step instructions. Unlike other frameworks, in the proposed system, it is possible to create the training entirely within the virtual/augmented environment, avoiding constant switching between 2D and 3D environments. The framework allows for the definition of steps in a training program, each of which includes textual instructions, videos, and 3D objects, static or animated, anchored in the real world. To demonstrate the capabilities of the framework, a training program for operating a Universal Testing Machine was created as a case study. Overall, the proposed framework allows for the creation of effective and efficient AR training programs for a variety of tasks and industries.
